@@ -11,3 +11,6 @@ def print3():
 
 def new_func():
     return 1+1
+
+def print4():
+    print("4")
