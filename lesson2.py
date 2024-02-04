@@ -16,3 +16,6 @@ def new_func():
 
 def print4():
     print("4")
+
+def add_func():
+    "add func"
