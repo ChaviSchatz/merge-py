@@ -8,7 +8,7 @@ def print2(s1, s2):
 
     
 
-def print3():
+def print8():
     print("Hello!")
 
 def new_func():
